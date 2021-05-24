@@ -5,6 +5,7 @@ object HelloWorld {
   def main(args: Array[String]): Unit = {
 
     println("HelloWorld-FirstLine")
+    println("HelloWorld-SecondLine")
   }
 
 }
